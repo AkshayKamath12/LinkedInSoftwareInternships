@@ -1,2 +1,1 @@
-# LinkedInSoftwareInternships
-Scrapes the top 10 2024 software internships on LinkedIn
+Run the main program to see the top 10 internships on LinkedIn for 2024 software engineering.
